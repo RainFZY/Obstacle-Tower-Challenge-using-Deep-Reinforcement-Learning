@@ -3,7 +3,7 @@ Unity Obstacle Tower is a challenging realistic 3D, third person perspective and
 
 Proximal Policy Optimization (PPO) and Advantage Actor Critic (A2C), both combined with Intrinsic Curiosity Model (ICM), are implemented. We train our agent using both PPO and A2C while calculating several metrics such as loss function and reward to evaluate these two methods. 
 
-More details regrading this project can be viewed in our [paper](https://drive.google.com/file/d/1ANcB1z1u9EiEo4aXfQlaDinZbaadI4Oj/view).
+More details regarding this project can be viewed in our [paper](https://drive.google.com/file/d/1ANcB1z1u9EiEo4aXfQlaDinZbaadI4Oj/view).
 
 ![](images/screenshot1.png)  
 
